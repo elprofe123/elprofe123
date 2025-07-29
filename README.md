@@ -43,9 +43,7 @@
 
 ## 🔥 Mis estadísticas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rodrigoquiroga&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</p>
+![Streak Stats](https://streak-stats.demolab.com?user=rodrigoquiroga&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5)
 
 
 ---
