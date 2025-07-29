@@ -43,7 +43,17 @@
 
 ## 🔥 Mis estadísticas
 
-![Streak Stats](https://streak-stats.demolab.com?user=rodrigoquiroga&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elprofe123&show_icons=true&theme=dark&locale=es" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elprofe123&theme=dark&locale=es" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elprofe123&layout=compact&theme=dark" height="180" />
+</p>
 
 
 ---
