@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/tu-usuario">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="rodrigoquiroga932@gmail.com">
+  <a href="mailto:rodrigoquiroga932@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
   </a>
 </div>
